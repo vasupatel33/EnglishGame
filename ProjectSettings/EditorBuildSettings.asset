@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sahneler/Menu.unity
+    guid: 8b444b9ba674fa14d9e5ed93ec553a30
+  - enabled: 1
+    path: Assets/Sahneler/OyunSahnesi.unity
+    guid: f142845fd4687dc4fb1df7ec30d74bca
+  - enabled: 1
+    path: Assets/Sahneler/Ending.unity
+    guid: c67b9c9d9d201924cb251ff4838cf9ee
+  - enabled: 1
+    path: Assets/Sahneler/GameOver.unity
+    guid: fa2bf5d1e7b6b0143948e667a31c0a4f
+  m_configObjects: {}
